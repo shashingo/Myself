@@ -1,0 +1,12 @@
+body {background-image: url("../img/stick-people-children-.jpg");
+background-repeat: no-repeat;
+background-position: bottom left;
+background-attachment: fixed;
+background-size:30%}
+p::first-letter {color:darkblue;font-size:xx-large}
+p {color:#C04000;font-size:20px;font-weight: bolder;}
+body {border-style:ridge;margin:3%}
+body {font-family: 'Stick No Bills', sans-serif;}
+h1 {text-align: center;color:darkorange;font-size: 40px;}
+div.static {position:static;border:4px solid coral;margin-right: 10cm;margin-left:10cm}
+div.static {text-align: center;}
